@@ -8998,3 +8998,4 @@ plugins
 servlet
 gadgets
 makeRequest
+bundle.js
